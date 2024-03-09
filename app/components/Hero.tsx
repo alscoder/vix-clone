@@ -55,7 +55,7 @@ const Hero = () => {
           </div>
         </div>
       </div>
-      <div className="hidden md:flex max-w-6xl pt-10  items-center justify-center mx-4 gap-10 ">
+      <div className="hidden md:flex max-w-6xl pt-10  items-center justify-center mx-auto gap-10 ">
         <div className="border rounded-2xl p-3 mt-auto bg-white bg-opacity-40">
           <div className="min-w-28">
             <span className="text-[10px] font-extralight">Sales</span>
@@ -76,9 +76,9 @@ const Hero = () => {
               <div className="hidden md:flex justify-between ">
                 <div className="font-extrabold text-[25px] pl-3">Ciao</div>
                 <div className="flex  justify-between items-center gap-4">
-                  <span className="text-[10px]">About</span>
-                  <span className="text-[10px]">Shop</span>
-                  <span className="text-[10px]">Blog</span>
+                  <span className="text-[10px]">About </span>
+                  <span className="text-[10px]">Shop </span>
+                  <span className="text-[10px]">Blog </span>
                   <CiSearch className="text-[10px]" />
                   <IoPersonOutline className="text-[10px]" />
                   <SlBag className="text-[10px]" />

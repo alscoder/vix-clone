@@ -3,7 +3,7 @@ import React from 'react'
 const WebBuilder = () => {
   return (
     <section className="flex items-center justify-center pt-20 bg-[#F3EFE5] ">
-    <div className="max-w-4xl my-7">
+    <div className="max-w-7xl my-7">
       <h1 className="max-w-xs md:max-w-2xl mt-16 py-10 text-[34px] md:text-[54px] leading-[45px] md:leading-[66px]">
       A website builder  engineered for growth
       </h1>

@@ -5,7 +5,7 @@ import { FaArrowRightLong } from "react-icons/fa6";
 const HereForYou = () => {
   return (
     <section className="flex items-center px-5 bg-[#F3EFE5] justify-center">
-      <div className="max-w-4xl my-7">
+      <div className="max-w-7xl my-7">
         <h1 className="max-w-xl md:mt-12 md:py-10 text-[34px] md:text-[64px] leading-[76px]">
           We're here for you
         </h1>
