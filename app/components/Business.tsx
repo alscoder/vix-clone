@@ -13,7 +13,7 @@ const Business = () => {
         </div>
         <div>
           <div className="grid grid-cols-1 gap-4 lg:gap-10 sm:gap-4 sm:grid-cols-2 lg:grid-cols-2 ">
-            <div className="max-w-sm  border-black">
+            <div className="max-w-xs md:max-w-md  border-black">
               <div className="pr-4">
                 <img src="/Online-shop.png" alt="" />
                 <div className="max-w-sm">
@@ -62,7 +62,7 @@ const Business = () => {
                 </div>
               </div>
             </div>
-            <div className="max-w-sm border-black">
+            <div className="max-w-xs md:max-w-md border-black">
               <div className="pr-4">
                 <img src="/f-1.png" alt="" />
                 <div className="max-w-xs">
@@ -110,7 +110,7 @@ const Business = () => {
                 </div>
               </div>
             </div>
-            <div className="max-w-sm border-black">
+            <div className="max-w-xs md:max-w-md  border-black">
               <div className="pr-4">
                 <img src="/scheduling.png" alt="" />
                 <div className="max-w-xs">
@@ -135,7 +135,7 @@ const Business = () => {
                 </div>
               </div>
             </div>
-            <div className="max-w-sm  border-black">
+            <div className="max-w-xs md:max-w-md border-black">
               <div className="pr-4">
                 <img src="/f-3.png" alt="" />
                 <div className="max-w-xs">
@@ -157,7 +157,7 @@ const Business = () => {
                 </div>
               </div>
             </div>
-            <div className="max-w-sm border-black">
+            <div className="max-w-xs md:max-w-md border-black">
               <div className="pr-4">
                 <img src="/f-5.png" alt="" />
                 <div className="max-w-xs">
@@ -181,7 +181,7 @@ const Business = () => {
                 </div>
               </div>
             </div>
-            <div className="max-w-sm  border-black">
+            <div className="max-w-xs md:max-w-md border-black">
               <div className="pr-4">
                 <img src="/f-4.png" alt="" />
                 <div className="max-w-xs">
